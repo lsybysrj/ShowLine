@@ -1,0 +1,12 @@
+Draw Lines from file using python
+
+data in one line divided by ' '
+lines divided by ','
+1.create sin data to file 
+	seperate :use createsins_divid.py
+	all in one:use createsins.py
+2.draw data from file
+	data is for one line : use drawSignal.py
+	data is for multi line:
+		show lines seperatly : use split.py
+		show lines in combanation : use acc.py
